@@ -28,6 +28,6 @@ Contains:
 - Program8.java 
 
 ## Student Details
-Name: Jitiksha Patel
-Enrollment No: 12402080601054
+Name: Jitiksha Patel <br>
+Enrollment No: 12402080601054 <br>
 Class-IT-A
