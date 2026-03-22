@@ -5,7 +5,7 @@ Programming with Java – Assignment Submission
 [Open Assignment-1](./Assignment-1)
 
 Contains:
-- [Assignment-1](./Assignment-1/Assignment-1.docx)
+- [Assignment-1.docx](./Assignment-1/Assignment-1.docx)
 - Program1.java
 - Program2.java
 - Program3.java
@@ -19,7 +19,7 @@ Contains:
 [Open Assignment-2](./Assignment-2)
 
 Contains:
-- [Assignment-2](./Assignment-2/Assignment-2.docx)
+- [Assignment-2.docx](./Assignment-2/Assignment-2.docx)
 - Program1.java 
 - Program2.java 
 - Program3.java 
